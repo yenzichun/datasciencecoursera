@@ -1,6 +1,7 @@
 ## This is a markdown file
 practicing git and github with **coursera** !
-# Learning resources:
+### Learning resources:
+----
 * git & github:
-http://www.dataschool.io/git-quick-reference-for-beginners/
-http://datasciencespecialization.github.io/toolbox/
+ - http://www.dataschool.io/git-quick-reference-for-beginners/
+ - http://datasciencespecialization.github.io/toolbox/
